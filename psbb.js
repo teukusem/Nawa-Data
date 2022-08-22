@@ -15,4 +15,4 @@ function psbb(num) {
   return totalBis;
 }
 
-console.log(psbb([1, 435, 3]));
+console.log(psbb([1, 435, 3, 4]));
